@@ -1,0 +1,8 @@
+{
+  "title": "Contact Us",
+  "subtitle": "Get in contact with our team",
+  "description": " Get in touch with the AegisTeam team, for a quote, further information or any other question! ",
+  "to": "contact@aegisteam.eu",
+  "subject": "Contact from Contact form of Aegis",
+  "body": "Name: {{name}}\nEmail: {{email}}\nMessage: {{message}}"
+}
